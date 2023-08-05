@@ -1,5 +1,5 @@
-# tag-auxiliary-processing-tool
-This is a tool developed based on python and qt5 for batch processing of Lora Tags. You can easily use this tool to quickly delete or add a large number of Tag operations without manually performing these operations.
-Supports free switching between Chinese and English, The default language is Chinese, if you plan to use English, you may need to switch manually
+# 标签辅助处理工具
+这是一个基于python和qt5开发的用于批量处理Lora Tags的工具。 您可以轻松地使用该工具快速删除或添加大量Tag操作，而无需手动执行这些操作。
+支持中英文自由切换，默认语言为中文，如果您打算使用英文，可能需要手动切换
 
 
